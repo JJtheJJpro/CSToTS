@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jjthe\\Desktop\\Visual Studio Programs\\CSToTS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65566EA4-A63C-48F7-8823-4A28E232DAB3}|CSToTS\\CSToTS.csproj|c:\\users\\jjthe\\desktop\\visual studio programs\\cstots\\cstots\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65566EA4-A63C-48F7-8823-4A28E232DAB3}|CSToTS\\CSToTS.csproj|solutionrelative:cstots\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65566EA4-A63C-48F7-8823-4A28E232DAB3}|CSToTS\\CSToTS.csproj|c:\\users\\jjthe\\desktop\\visual studio programs\\cstots\\cstots\\typescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65566EA4-A63C-48F7-8823-4A28E232DAB3}|CSToTS\\CSToTS.csproj|solutionrelative:cstots\\typescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TypeScript.cs",
+              "DocumentMoniker": "C:\\Users\\jjthe\\Desktop\\Visual Studio Programs\\CSToTS\\CSToTS\\TypeScript.cs",
+              "RelativeDocumentMoniker": "CSToTS\\TypeScript.cs",
+              "ToolTip": "C:\\Users\\jjthe\\Desktop\\Visual Studio Programs\\CSToTS\\CSToTS\\TypeScript.cs",
+              "RelativeToolTip": "CSToTS\\TypeScript.cs",
+              "ViewState": "AgIAANMBAAAAAAAAAAAqwA0CAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T17:50:27.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jjthe\\Desktop\\Visual Studio Programs\\CSToTS\\CSToTS\\Program.cs",
+              "RelativeDocumentMoniker": "CSToTS\\Program.cs",
+              "ToolTip": "C:\\Users\\jjthe\\Desktop\\Visual Studio Programs\\CSToTS\\CSToTS\\Program.cs",
+              "RelativeToolTip": "CSToTS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T18:59:08.07Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
