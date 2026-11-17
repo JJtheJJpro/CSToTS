@@ -6,9 +6,5 @@
   <PropertyGroup>
     <ActiveDebugProfile>CSToTS</ActiveDebugProfile>
   </PropertyGroup>
-  <ItemGroup>
-    <None Update="MemManage.ts">
-      <SubType>Code</SubType>
-    </None>
-  </ItemGroup>
+  <ItemGroup />
 </Project>
