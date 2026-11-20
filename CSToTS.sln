@@ -5,6 +5,8 @@ VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSToTS", "CSToTS\CSToTS.csproj", "{65566EA4-A63C-48F7-8823-4A28E232DAB3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSToTS.Tests", "CSToTS.Tests\CSToTS.Tests.csproj", "{B7751C6D-C4FC-449E-A67C-D7F84CEB5D09}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{65566EA4-A63C-48F7-8823-4A28E232DAB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65566EA4-A63C-48F7-8823-4A28E232DAB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65566EA4-A63C-48F7-8823-4A28E232DAB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7751C6D-C4FC-449E-A67C-D7F84CEB5D09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7751C6D-C4FC-449E-A67C-D7F84CEB5D09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7751C6D-C4FC-449E-A67C-D7F84CEB5D09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7751C6D-C4FC-449E-A67C-D7F84CEB5D09}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

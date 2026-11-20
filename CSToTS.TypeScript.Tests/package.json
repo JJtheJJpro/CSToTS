@@ -1,0 +1,11 @@
+{
+  "name": "cstots-typescript-compiler-tests",
+  "private": true,
+  "scripts": {
+    "test": "dotnet test CSToTS.TypeScript.Tests.csproj"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "typescript": "5.9.3"
+  }
+}
